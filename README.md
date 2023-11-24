@@ -21,7 +21,3 @@ This project is designed to help individuals who are new to the C# programming l
 3. Study the C# file to comprehend the exercise's requirements.
 4. Create your own solution and observe the outcomes.
 5. Compare your solution with the provided sample solution to enhance your skills.
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
