@@ -21,15 +21,15 @@ namespace SystemXMLKullanimi
             XmlText.WriteStartElement("Personel");
             XmlText.WriteAttributeString("ID", "1");
             XmlText.WriteElementString("Isim", "sinan");
-            XmlText.WriteElementString("Soyisim", "deneme");
-            XmlText.WriteElementString("EmailAdres", "info@sinanozcelik.com");
+            XmlText.WriteElementString("Soyisim", "özçelik");
+            XmlText.WriteElementString("EmailAdres", "sinanozcelik@yaani.com");
             XmlText.WriteEndElement();
 
             XmlText.WriteStartElement("Personel");
             XmlText.WriteAttributeString("ID", "2");
-            XmlText.WriteElementString("Isim", "deneme");
+            XmlText.WriteElementString("Isim", "özçelik");
             XmlText.WriteElementString("Soyisim", "sinan");
-            XmlText.WriteElementString("EmailAdres", "info@sinanozcelik.com");
+            XmlText.WriteElementString("EmailAdres", "sinanozcelik@yaani.com");
             XmlText.WriteEndElement();
 
             XmlText.WriteEndElement();
@@ -42,13 +42,13 @@ namespace SystemXMLKullanimi
              *  <Personeller>
              *      <Personel ID="1">
              *          <isim>sinan</isim>
-             *          <Soyisim>deneme</Soyisim>
-             *          <EmailAdres>info@sinanozcelik.com</EmailAdres>
+             *          <Soyisim>özçelik</Soyisim>
+             *          <EmailAdres>sinanozcelik@yaani.com</EmailAdres>
              *      </Personel>
              *      <Personel ID="2">
-             *          <isim>deneme</isim>
+             *          <isim>özçelik</isim>
              *          <Soyisim>sinan</Soyisim>
-             *          <EmailAdres>info@sinanozcelik.com</EmailAdres>
+             *          <EmailAdres>sinanozcelik@yaani.com</EmailAdres>
              *      </Personel>
              * </Personeller>
             */

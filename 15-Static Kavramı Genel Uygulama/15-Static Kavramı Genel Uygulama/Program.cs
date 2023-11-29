@@ -10,7 +10,7 @@ namespace _15_Static_Kavramı_Genel_Uygulama
             M1.musteriID = 1;
             M1.isim = "sinan";
             M1.soyisim = "deneme";
-            M1.emailAdres = "info@sinanozcelik.com";
+            M1.emailAdres = "sinanozcelik@yaani.com";
             M1.KullaniciAdi = "sinan.deneme";
             M1.sifre = "1";
 
@@ -21,7 +21,7 @@ namespace _15_Static_Kavramı_Genel_Uygulama
                 musteriID = 2,
                 isim = "namee",
                 soyisim = "deneme",
-                emailAdres = "deneme@sinanozcelik.com",
+                emailAdres = "sinanozcelik@yaani.com",
                 KullaniciAdi = "namee.deneme",
                 sifre = "2"
             };
@@ -32,7 +32,7 @@ namespace _15_Static_Kavramı_Genel_Uygulama
             M3.musteriID = 1;
             M3.isim = "sinan";
             M3.soyisim = "deneme";
-            M3.emailAdres = "info@sinanozcelik.com";
+            M3.emailAdres = "sinanozcelik@yaani.com";
             M3.KullaniciAdi = "sinan.deneme";
             M3.sifre = "1";
 

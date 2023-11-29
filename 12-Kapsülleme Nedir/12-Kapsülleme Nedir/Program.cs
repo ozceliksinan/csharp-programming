@@ -41,10 +41,10 @@ namespace _12_Kapsülleme_Nedir
             //  Property
             //  Get & Set 
 
-            // M1.emailAdres = "info@sinanozcelik.com"; ( Field ) 
+            // M1.emailAdres = "sinanozcelik@yaani.com"; ( Field ) 
 
             // Genel olarak kapsülleme konusuna giriş yaptık.
-            //M1.EmailAdres = "info@sinanozcelik.com";
+            //M1.EmailAdres = "sinanozcelik@yaani.com";
             //Console.Write(M1.EmailAdres);
 
             // 1. Field değer ataması yapılamasın ama değer okunabilsin.
@@ -58,7 +58,7 @@ namespace _12_Kapsülleme_Nedir
             // isim ve soyisim 
             // isim ve soyisim [soyisim] = set 
             // email adresi .... 
-            // email get info@sinanozcelik.com
+            // email get sinanozcelik@yaani.com
             // set : private 
 
             M1.isim = "sinan";

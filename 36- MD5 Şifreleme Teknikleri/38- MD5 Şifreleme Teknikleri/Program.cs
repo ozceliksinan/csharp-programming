@@ -7,7 +7,7 @@ namespace _38__MD5_Şifreleme_Teknikleri
     {
         static void Main(string[] args)
         {
-            string SifrelenecekMetin = "sinanozcelik.com";
+            string SifrelenecekMetin = "sinanozcelik";
             MD5CryptoServiceProvider MD5 = new MD5CryptoServiceProvider();
 
             byte[] sifrelenecekMetinBytes = System.Text.Encoding.UTF8.GetBytes(SifrelenecekMetin);

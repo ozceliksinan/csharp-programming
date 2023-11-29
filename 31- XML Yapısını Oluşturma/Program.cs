@@ -29,7 +29,7 @@ namespace XML_Olusturma_1
                 new XElement("Personellerim", new XAttribute("ID", "102"), // XML Yapısı içerisinde özellik içinde özellik yapısı kullanılabilir. 
                 new XElement("Isim", "sinan"), 
                 new XElement("Soyisim", "deneme"), 
-                new XElement("EmailAdres", "info@sinanozcelik.com")
+                new XElement("EmailAdres", "sinanozcelik@yaani.com")
                 )
                 )
                 );
